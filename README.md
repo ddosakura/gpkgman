@@ -1,0 +1,2 @@
+# gpkgman
+Generic Package Manager
