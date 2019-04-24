@@ -1,0 +1,19 @@
+{
+  "name": "bower-test",
+  "authors": [
+    "Sakura Mo <moyinzi@outlook.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}

@@ -1,3 +1,7 @@
+code in generic part move to [skr](https://github.com/ddskr/skr) module part.
+
+Old research documents uploaded for reference only.
+
 # gpkgman - Generic Package Manager
 
 The generic package manage tools
